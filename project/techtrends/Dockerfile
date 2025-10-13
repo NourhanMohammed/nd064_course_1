@@ -16,5 +16,5 @@ EXPOSE 3111
 # Initialize the database with predefined posts
 RUN python init_db.py
 
-# Set the default command to run the TechTrends application
+# Set the default command to run the TechTrends 
 CMD ["python", "app.py"]
