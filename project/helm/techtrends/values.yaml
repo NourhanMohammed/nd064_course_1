@@ -1,7 +1,7 @@
 namespace: sandbox
 
 image:
-  repository: techtrends
+  repository: nourhanmohammed95/techtrends
   tag: latest
   pullPolicy: IfNotPresent
 
