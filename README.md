@@ -6,4 +6,4 @@
 **Instructor**: https://github.com/kgamanji
 
 Project: 2025 october
-Trainee: E.Nourhan
+Trainee: Nourhan
